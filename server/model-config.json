@@ -29,5 +29,9 @@
   "flight": {
     "dataSource": "db",
     "public": true
+  },
+  "airport": {
+    "dataSource": "db",
+    "public": true
   }
 }
