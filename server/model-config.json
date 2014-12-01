@@ -25,5 +25,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "flight": {
+    "dataSource": "db",
+    "public": true
   }
 }
